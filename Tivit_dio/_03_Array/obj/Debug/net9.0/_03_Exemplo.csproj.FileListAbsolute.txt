@@ -1,0 +1,14 @@
+D:\rc-Csharp\Tivit_dio\_03_Array\obj\Debug\net9.0\_03_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-Csharp\Tivit_dio\_03_Array\obj\Debug\net9.0\_03_Exemplo.AssemblyInfoInputs.cache
+D:\rc-Csharp\Tivit_dio\_03_Array\obj\Debug\net9.0\_03_Exemplo.AssemblyInfo.cs
+D:\rc-Csharp\Tivit_dio\_03_Array\obj\Debug\net9.0\_03_Exemplo.csproj.CoreCompileInputs.cache
+D:\rc-Csharp\Tivit_dio\_03_Array\bin\Debug\net9.0\_03_Exemplo.exe
+D:\rc-Csharp\Tivit_dio\_03_Array\bin\Debug\net9.0\_03_Exemplo.deps.json
+D:\rc-Csharp\Tivit_dio\_03_Array\bin\Debug\net9.0\_03_Exemplo.runtimeconfig.json
+D:\rc-Csharp\Tivit_dio\_03_Array\bin\Debug\net9.0\_03_Exemplo.dll
+D:\rc-Csharp\Tivit_dio\_03_Array\bin\Debug\net9.0\_03_Exemplo.pdb
+D:\rc-Csharp\Tivit_dio\_03_Array\obj\Debug\net9.0\_03_Exemplo.dll
+D:\rc-Csharp\Tivit_dio\_03_Array\obj\Debug\net9.0\refint\_03_Exemplo.dll
+D:\rc-Csharp\Tivit_dio\_03_Array\obj\Debug\net9.0\_03_Exemplo.pdb
+D:\rc-Csharp\Tivit_dio\_03_Array\obj\Debug\net9.0\_03_Exemplo.genruntimeconfig.cache
+D:\rc-Csharp\Tivit_dio\_03_Array\obj\Debug\net9.0\ref\_03_Exemplo.dll

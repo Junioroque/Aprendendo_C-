@@ -1,0 +1,14 @@
+D:\rc-Csharp\Tivit_dio\_04_Foreach\bin\Debug\net9.0\_04_Foreach.exe
+D:\rc-Csharp\Tivit_dio\_04_Foreach\bin\Debug\net9.0\_04_Foreach.deps.json
+D:\rc-Csharp\Tivit_dio\_04_Foreach\bin\Debug\net9.0\_04_Foreach.runtimeconfig.json
+D:\rc-Csharp\Tivit_dio\_04_Foreach\bin\Debug\net9.0\_04_Foreach.dll
+D:\rc-Csharp\Tivit_dio\_04_Foreach\bin\Debug\net9.0\_04_Foreach.pdb
+D:\rc-Csharp\Tivit_dio\_04_Foreach\obj\Debug\net9.0\_04_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-Csharp\Tivit_dio\_04_Foreach\obj\Debug\net9.0\_04_Foreach.AssemblyInfoInputs.cache
+D:\rc-Csharp\Tivit_dio\_04_Foreach\obj\Debug\net9.0\_04_Foreach.AssemblyInfo.cs
+D:\rc-Csharp\Tivit_dio\_04_Foreach\obj\Debug\net9.0\_04_Foreach.csproj.CoreCompileInputs.cache
+D:\rc-Csharp\Tivit_dio\_04_Foreach\obj\Debug\net9.0\_04_Foreach.dll
+D:\rc-Csharp\Tivit_dio\_04_Foreach\obj\Debug\net9.0\refint\_04_Foreach.dll
+D:\rc-Csharp\Tivit_dio\_04_Foreach\obj\Debug\net9.0\_04_Foreach.pdb
+D:\rc-Csharp\Tivit_dio\_04_Foreach\obj\Debug\net9.0\_04_Foreach.genruntimeconfig.cache
+D:\rc-Csharp\Tivit_dio\_04_Foreach\obj\Debug\net9.0\ref\_04_Foreach.dll
