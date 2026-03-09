@@ -1,0 +1,15 @@
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\bin\Debug\net9.0\_05_Lista.exe
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\bin\Debug\net9.0\_05_Lista.deps.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\bin\Debug\net9.0\_05_Lista.runtimeconfig.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\bin\Debug\net9.0\_05_Lista.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\bin\Debug\net9.0\_05_Lista.pdb
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\obj\Debug\net9.0\_05_Lista.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\obj\Debug\net9.0\_05_Lista.AssemblyInfoInputs.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\obj\Debug\net9.0\_05_Lista.AssemblyInfo.cs
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\obj\Debug\net9.0\_05_Lista.csproj.CoreCompileInputs.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\obj\Debug\net9.0\_05_Lista.sourcelink.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\obj\Debug\net9.0\_05_Lista.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\obj\Debug\net9.0\refint\_05_Lista.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\obj\Debug\net9.0\_05_Lista.pdb
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\obj\Debug\net9.0\_05_Lista.genruntimeconfig.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_05_Lista\obj\Debug\net9.0\ref\_05_Lista.dll

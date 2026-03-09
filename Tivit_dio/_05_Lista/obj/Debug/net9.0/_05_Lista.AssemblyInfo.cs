@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("_04_Foreach")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("_05_Lista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b741d2fe0724d21d4caf0abf0603432547424cb3")]
-[assembly: System.Reflection.AssemblyProductAttribute("_04_Foreach")]
-[assembly: System.Reflection.AssemblyTitleAttribute("_04_Foreach")]
+[assembly: System.Reflection.AssemblyProductAttribute("_05_Lista")]
+[assembly: System.Reflection.AssemblyTitleAttribute("_05_Lista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
