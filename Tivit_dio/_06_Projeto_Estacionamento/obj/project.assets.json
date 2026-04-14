@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_03_Array\\_03_Exemplo.csproj",
-      "projectName": "_03_Exemplo",
-      "projectPath": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_03_Array\\_03_Exemplo.csproj",
+      "projectUniqueName": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_6_Projeto_Estacionamento\\_6_Projeto_Estacionamento.csproj",
+      "projectName": "_6_Projeto_Estacionamento",
+      "projectPath": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_6_Projeto_Estacionamento\\_6_Projeto_Estacionamento.csproj",
       "packagesPath": "C:\\Users\\jccez\\.nuget\\packages\\",
-      "outputPath": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_03_Array\\obj\\",
+      "outputPath": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_6_Projeto_Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jccez\\AppData\\Roaming\\NuGet\\NuGet.Config"
