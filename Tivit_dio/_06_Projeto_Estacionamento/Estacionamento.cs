@@ -18,9 +18,8 @@ namespace _06_Projeto_Estacionamento
         {
             //TODO: Pedir  para o usúario digitar uma placa (ReadLine) e adicionar na lista "veículos"
             //IMPRIME AQUI
-            string placa = Console.ReadLine();
-
             Console.WriteLine("Digite a placa do veículo para estacionar: ");
+            string placa = Console.ReadLine()?? "";
             veiculos.Add(placa);
             
         }
@@ -29,7 +28,8 @@ namespace _06_Projeto_Estacionamento
         {
             Console.WriteLine("Digite a placa do veículo para remover: ");
 
-            string placa = Console.ReadLine();
+            string placa = Console.ReadLine()!;
+           
 
             //verifica se o veiculo existe
             if(veiculos.Any(x => x.ToUpper() == placa.ToUpper())){
@@ -38,11 +38,12 @@ namespace _06_Projeto_Estacionamento
                 //TODO: Pedir para o usuário digitar a quantidade de horas que  o veiculo ficou estacionado
                 //TODO: Realizar o seguinte cálculo: "precoInicial + precoFinal * para variavel
                 //IMPRIME AQUI
-                int hora = Convert.ToDecimal(Console.ReadLine());
+                int hora = Convert.ToInt32(Console.ReadLine());
                 decimal valorTotal = precoInicial + (precoPorHora * hora);
 
                 //TODO: Remover a placa digitada da lista de veiculos
                 //IMPREMENTE AQUI
+                 veiculos.Remove(placa);
                 Console.WriteLine($"O veiculo {placa} foi removido e o preço total foi de: R$ {valorTotal}");
 
             }else
@@ -61,7 +62,7 @@ namespace _06_Projeto_Estacionamento
                 Console.WriteLine("Os veículos estacionados são: ");
                 //TODO: Realizar um laço de repetição, exibindo os veículos estacionados
                 //IMPRIME AQUI
-                for(int i = 1; i < veiculos.Count; i++)
+                for(int i = 0; i < veiculos.Count; i++)
                 {
                      Console.WriteLine($"{i + 1} - {veiculos[i]}");
                 }
