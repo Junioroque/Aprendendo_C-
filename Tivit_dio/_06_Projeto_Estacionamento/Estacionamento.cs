@@ -16,24 +16,30 @@ namespace _06_Projeto_Estacionamento
 
         public void AdicionarVeiculo()
         {
-            Console.WriteLine("Digite a placa do ve[iculo para estacionar: ");
+            //TODO: Pedir  para o usúario digitar uma placa (ReadLine) e adicionar na lista "veículos"
+            //IMPRIME AQUI
+            string placa = Console.ReadLine();
+
+            Console.WriteLine("Digite a placa do veículo para estacionar: ");
+            veiculos.Add(placa);
+            
         }
 
         public void RemoverVeiculo()
         {
-            Console.WriteLine("Digit a placa do veículo para remover: ");
+            Console.WriteLine("Digite a placa do veículo para remover: ");
 
-            string placa = " ";
+            string placa = Console.ReadLine();
 
             //verifica se o veiculo existe
             if(veiculos.Any(x => x.ToUpper() == placa.ToUpper())){
-                console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado: ");
+                Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado: ");
 
                 //TODO: Pedir para o usuário digitar a quantidade de horas que  o veiculo ficou estacionado
                 //TODO: Realizar o seguinte cálculo: "precoInicial + precoFinal * para variavel
                 //IMPRIME AQUI
-                int hora = 0;
-                decimal valorTotal = 0;
+                int hora = Convert.ToDecimal(Console.ReadLine());
+                decimal valorTotal = precoInicial + (precoPorHora * hora);
 
                 //TODO: Remover a placa digitada da lista de veiculos
                 //IMPREMENTE AQUI
@@ -55,6 +61,10 @@ namespace _06_Projeto_Estacionamento
                 Console.WriteLine("Os veículos estacionados são: ");
                 //TODO: Realizar um laço de repetição, exibindo os veículos estacionados
                 //IMPRIME AQUI
+                for(int i = 1; i < veiculos.Count; i++)
+                {
+                     Console.WriteLine($"{i + 1} - {veiculos[i]}");
+                }
             }else
             {
                 Console.Write("Não há veículos estacionados.");
