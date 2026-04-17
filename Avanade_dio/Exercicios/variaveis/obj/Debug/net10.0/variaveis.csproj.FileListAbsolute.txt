@@ -1,0 +1,15 @@
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\bin\Debug\net10.0\variaveis.exe
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\bin\Debug\net10.0\variaveis.deps.json
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\bin\Debug\net10.0\variaveis.runtimeconfig.json
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\bin\Debug\net10.0\variaveis.dll
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\bin\Debug\net10.0\variaveis.pdb
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\obj\Debug\net10.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\obj\Debug\net10.0\variaveis.AssemblyInfoInputs.cache
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\obj\Debug\net10.0\variaveis.AssemblyInfo.cs
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\obj\Debug\net10.0\variaveis.csproj.CoreCompileInputs.cache
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\obj\Debug\net10.0\variaveis.sourcelink.json
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\obj\Debug\net10.0\variaveis.dll
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\obj\Debug\net10.0\refint\variaveis.dll
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\obj\Debug\net10.0\variaveis.pdb
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\obj\Debug\net10.0\variaveis.genruntimeconfig.cache
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\variaveis\obj\Debug\net10.0\ref\variaveis.dll
