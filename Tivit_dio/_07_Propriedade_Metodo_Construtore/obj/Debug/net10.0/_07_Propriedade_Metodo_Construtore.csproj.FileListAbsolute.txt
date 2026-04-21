@@ -1,0 +1,15 @@
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\bin\Debug\net10.0\_07_Propriedade_Metodo_Construtore.exe
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\bin\Debug\net10.0\_07_Propriedade_Metodo_Construtore.deps.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\bin\Debug\net10.0\_07_Propriedade_Metodo_Construtore.runtimeconfig.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\bin\Debug\net10.0\_07_Propriedade_Metodo_Construtore.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\bin\Debug\net10.0\_07_Propriedade_Metodo_Construtore.pdb
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\obj\Debug\net10.0\_07_Propriedade_Metodo_Construtore.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\obj\Debug\net10.0\_07_Propriedade_Metodo_Construtore.AssemblyInfoInputs.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\obj\Debug\net10.0\_07_Propriedade_Metodo_Construtore.AssemblyInfo.cs
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\obj\Debug\net10.0\_07_Propriedade_Metodo_Construtore.csproj.CoreCompileInputs.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\obj\Debug\net10.0\_07_Propriedade_Metodo_Construtore.sourcelink.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\obj\Debug\net10.0\_07_Propriedade_Metodo_Construtore.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\obj\Debug\net10.0\refint\_07_Propriedade_Metodo_Construtore.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\obj\Debug\net10.0\_07_Propriedade_Metodo_Construtore.pdb
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\obj\Debug\net10.0\_07_Propriedade_Metodo_Construtore.genruntimeconfig.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_07_Propriedade_Metodo_Construtore\obj\Debug\net10.0\ref\_07_Propriedade_Metodo_Construtore.dll
