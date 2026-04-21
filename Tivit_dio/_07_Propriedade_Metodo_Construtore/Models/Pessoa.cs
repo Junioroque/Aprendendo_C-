@@ -28,6 +28,9 @@ namespace _07_Propriedade_Metodo_Construtore.Models
             } 
         }
 
+        public string Sobrenome {get; set;}
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
+
         //Validar idade
         public int Idade 
         { 
@@ -47,7 +50,7 @@ namespace _07_Propriedade_Metodo_Construtore.Models
         //Metodo
         public void Apresentar()
         {
-            Console.WriteLine($"Nome: {Nome}, Idade: {Idade}");
+            Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
         }
     }
 }
