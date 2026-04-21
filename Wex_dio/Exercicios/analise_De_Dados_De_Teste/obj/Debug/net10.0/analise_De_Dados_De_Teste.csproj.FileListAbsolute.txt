@@ -1,0 +1,15 @@
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\bin\Debug\net10.0\analise_De_Dados_De_Teste.exe
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\bin\Debug\net10.0\analise_De_Dados_De_Teste.deps.json
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\bin\Debug\net10.0\analise_De_Dados_De_Teste.runtimeconfig.json
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\bin\Debug\net10.0\analise_De_Dados_De_Teste.dll
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\bin\Debug\net10.0\analise_De_Dados_De_Teste.pdb
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\obj\Debug\net10.0\analise_De_Dados_De_Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\obj\Debug\net10.0\analise_De_Dados_De_Teste.AssemblyInfoInputs.cache
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\obj\Debug\net10.0\analise_De_Dados_De_Teste.AssemblyInfo.cs
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\obj\Debug\net10.0\analise_De_Dados_De_Teste.csproj.CoreCompileInputs.cache
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\obj\Debug\net10.0\analise_De_Dados_De_Teste.sourcelink.json
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\obj\Debug\net10.0\analise_De_Dados_De_Teste.dll
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\obj\Debug\net10.0\refint\analise_De_Dados_De_Teste.dll
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\obj\Debug\net10.0\analise_De_Dados_De_Teste.pdb
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\obj\Debug\net10.0\analise_De_Dados_De_Teste.genruntimeconfig.cache
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\analise_De_Dados_De_Teste\obj\Debug\net10.0\ref\analise_De_Dados_De_Teste.dll
