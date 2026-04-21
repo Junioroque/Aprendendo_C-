@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "consultoria_Nuvem/1.0.0": {
+        "runtime": {
+          "consultoria_Nuvem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consultoria_Nuvem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

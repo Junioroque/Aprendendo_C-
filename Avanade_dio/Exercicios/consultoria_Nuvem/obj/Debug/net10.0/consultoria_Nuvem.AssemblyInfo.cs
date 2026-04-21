@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("_07_Propriedade_Metodo_Construtore")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("consultoria_Nuvem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5131e72b089a6993a042c3e0cf2ed47a7b503a84")]
-[assembly: System.Reflection.AssemblyProductAttribute("_07_Propriedade_Metodo_Construtore")]
-[assembly: System.Reflection.AssemblyTitleAttribute("_07_Propriedade_Metodo_Construtore")]
+[assembly: System.Reflection.AssemblyProductAttribute("consultoria_Nuvem")]
+[assembly: System.Reflection.AssemblyTitleAttribute("consultoria_Nuvem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

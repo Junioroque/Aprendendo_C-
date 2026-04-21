@@ -1,0 +1,15 @@
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\bin\Debug\net10.0\consultoria_Nuvem.exe
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\bin\Debug\net10.0\consultoria_Nuvem.deps.json
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\bin\Debug\net10.0\consultoria_Nuvem.runtimeconfig.json
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\bin\Debug\net10.0\consultoria_Nuvem.dll
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\bin\Debug\net10.0\consultoria_Nuvem.pdb
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\obj\Debug\net10.0\consultoria_Nuvem.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\obj\Debug\net10.0\consultoria_Nuvem.AssemblyInfoInputs.cache
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\obj\Debug\net10.0\consultoria_Nuvem.AssemblyInfo.cs
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\obj\Debug\net10.0\consultoria_Nuvem.csproj.CoreCompileInputs.cache
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\obj\Debug\net10.0\consultoria_Nuvem.sourcelink.json
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\obj\Debug\net10.0\consultoria_Nuvem.dll
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\obj\Debug\net10.0\refint\consultoria_Nuvem.dll
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\obj\Debug\net10.0\consultoria_Nuvem.pdb
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\obj\Debug\net10.0\consultoria_Nuvem.genruntimeconfig.cache
+D:\rc-C#\Aprendendo_C#\Avanade_dio\Exercicios\consultoria_Nuvem\obj\Debug\net10.0\ref\consultoria_Nuvem.dll
