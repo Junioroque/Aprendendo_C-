@@ -1,0 +1,15 @@
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\bin\Debug\net10.0\avaliacao_Teste_Automatizado.exe
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\bin\Debug\net10.0\avaliacao_Teste_Automatizado.deps.json
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\bin\Debug\net10.0\avaliacao_Teste_Automatizado.runtimeconfig.json
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\bin\Debug\net10.0\avaliacao_Teste_Automatizado.dll
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\bin\Debug\net10.0\avaliacao_Teste_Automatizado.pdb
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\obj\Debug\net10.0\avaliacao_Teste_Automatizado.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\obj\Debug\net10.0\avaliacao_Teste_Automatizado.AssemblyInfoInputs.cache
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\obj\Debug\net10.0\avaliacao_Teste_Automatizado.AssemblyInfo.cs
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\obj\Debug\net10.0\avaliacao_Teste_Automatizado.csproj.CoreCompileInputs.cache
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\obj\Debug\net10.0\avaliacao_Teste_Automatizado.sourcelink.json
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\obj\Debug\net10.0\avaliacao_Teste_Automatizado.dll
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\obj\Debug\net10.0\refint\avaliacao_Teste_Automatizado.dll
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\obj\Debug\net10.0\avaliacao_Teste_Automatizado.pdb
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\obj\Debug\net10.0\avaliacao_Teste_Automatizado.genruntimeconfig.cache
+D:\rc-C#\Aprendendo_C#\Wex_dio\Exercicios\avaliacao_Teste_Automatizado\obj\Debug\net10.0\ref\avaliacao_Teste_Automatizado.dll
