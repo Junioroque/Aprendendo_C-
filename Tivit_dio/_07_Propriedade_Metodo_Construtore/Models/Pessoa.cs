@@ -8,6 +8,18 @@ namespace _07_Propriedade_Metodo_Construtore.Models
 {
     public class Pessoa
     {
+
+        //Construtor tem nome da class, pode ser vazio ou ter parametros
+        public Pessoa()//vazio
+        {
+            
+        }
+        public Pessoa(string nome, string sobrenome)
+        {
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
+
         //Class Pessoa tem 2 propriedades
 
         private string _nome; 
