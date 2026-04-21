@@ -9,7 +9,13 @@ p1.Idade = 43;
 p1.Apresentar();
 
 Console.WriteLine("");
-p1.Nome = "";
-p1.Idade = 25;
+p1.Nome = "Carla";
+p1.Idade = 29;
 
+
+
+p1.Apresentar();
+
+p1.Nome = "Cezar";
+p1.Idade = 33;
 p1.Apresentar();

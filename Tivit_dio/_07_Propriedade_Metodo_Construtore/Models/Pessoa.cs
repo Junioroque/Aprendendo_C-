@@ -11,28 +11,36 @@ namespace _07_Propriedade_Metodo_Construtore.Models
         //Class Pessoa tem 2 propriedades
 
         private string _nome; 
+        private int _idade;
         public string Nome 
         { 
-            get
-            {
-                return _nome.ToUpper();
-            }
+            get => _nome.ToUpper();
+            
             set
             {
+                
+                if(value == "")
                 {
-                   if(value == "")
-                   {
-                       throw new ArgumentException("O nome não pode ser vazio");
-                   }
-                   _nome = value;
+                    throw new ArgumentException("O nome não pode ser vazio");
                 }
+                _nome = value;
+                
             } 
         }
 
+        //Validar idade
         public int Idade 
         { 
-            get; 
-            set;
+            get => _idade;
+
+            set
+            {
+                if(value < 0)
+                {
+                    throw new ArgumentException("A idade não pode ser menor que zero");
+                }
+                _idade = value;
+            }
         
         }
 
