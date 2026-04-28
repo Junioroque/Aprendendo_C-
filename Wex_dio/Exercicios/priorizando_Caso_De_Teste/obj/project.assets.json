@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Manipulacao_Valores\\_08_Manipulacao_Valores.csproj",
-      "projectName": "_08_Manipulacao_Valores",
-      "projectPath": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Manipulacao_Valores\\_08_Manipulacao_Valores.csproj",
+      "projectUniqueName": "D:\\rc-C#\\Aprendendo_C#\\Wex_dio\\Exercicios\\priorizando_Caso_De_Teste\\priorizando_Caso_De_Teste.csproj",
+      "projectName": "priorizando_Caso_De_Teste",
+      "projectPath": "D:\\rc-C#\\Aprendendo_C#\\Wex_dio\\Exercicios\\priorizando_Caso_De_Teste\\priorizando_Caso_De_Teste.csproj",
       "packagesPath": "C:\\Users\\jccez\\.nuget\\packages\\",
-      "outputPath": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Manipulacao_Valores\\obj\\",
+      "outputPath": "D:\\rc-C#\\Aprendendo_C#\\Wex_dio\\Exercicios\\priorizando_Caso_De_Teste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

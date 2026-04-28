@@ -1,0 +1,15 @@
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\bin\Debug\net10.0\_08_Manipulacao_Valores.exe
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\bin\Debug\net10.0\_08_Manipulacao_Valores.deps.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\bin\Debug\net10.0\_08_Manipulacao_Valores.runtimeconfig.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\bin\Debug\net10.0\_08_Manipulacao_Valores.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\bin\Debug\net10.0\_08_Manipulacao_Valores.pdb
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\obj\Debug\net10.0\_08_Manipulacao_Valores.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\obj\Debug\net10.0\_08_Manipulacao_Valores.AssemblyInfoInputs.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\obj\Debug\net10.0\_08_Manipulacao_Valores.AssemblyInfo.cs
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\obj\Debug\net10.0\_08_Manipulacao_Valores.csproj.CoreCompileInputs.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\obj\Debug\net10.0\_08_Manipulacao_Valores.sourcelink.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\obj\Debug\net10.0\_08_Manipulacao_Valores.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\obj\Debug\net10.0\refint\_08_Manipulacao_Valores.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\obj\Debug\net10.0\_08_Manipulacao_Valores.pdb
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\obj\Debug\net10.0\_08_Manipulacao_Valores.genruntimeconfig.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_08_Interpolacao_String\obj\Debug\net10.0\ref\_08_Manipulacao_Valores.dll
