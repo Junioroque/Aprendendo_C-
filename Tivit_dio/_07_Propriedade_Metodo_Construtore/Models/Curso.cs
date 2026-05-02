@@ -33,6 +33,7 @@ namespace _07_Propriedade_Metodo_Construtore.Models
             for(int count = 0; count < Alunos.Count; count++)
             {
                 //string texto = "N° " + (count+1) + " - " + Alunos[count].NomeCompleto;
+                
                 //Interpolação de string
                 string texto = $"N° {count+1} - {Alunos[count].NomeCompleto}";
                 Console.WriteLine(texto);
