@@ -1,0 +1,15 @@
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\bin\Debug\net10.0\Pink_e_Cerebro.exe
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\bin\Debug\net10.0\Pink_e_Cerebro.deps.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\bin\Debug\net10.0\Pink_e_Cerebro.runtimeconfig.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\bin\Debug\net10.0\Pink_e_Cerebro.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\bin\Debug\net10.0\Pink_e_Cerebro.pdb
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\obj\Debug\net10.0\Pink_e_Cerebro.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\obj\Debug\net10.0\Pink_e_Cerebro.AssemblyInfoInputs.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\obj\Debug\net10.0\Pink_e_Cerebro.AssemblyInfo.cs
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\obj\Debug\net10.0\Pink_e_Cerebro.csproj.CoreCompileInputs.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\obj\Debug\net10.0\Pink_e_Cerebro.sourcelink.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\obj\Debug\net10.0\Pink_e_Cerebro.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\obj\Debug\net10.0\refint\Pink_e_Cerebro.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\obj\Debug\net10.0\Pink_e_Cerebro.pdb
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\obj\Debug\net10.0\Pink_e_Cerebro.genruntimeconfig.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Pink_e_Cerebro\obj\Debug\net10.0\ref\Pink_e_Cerebro.dll
