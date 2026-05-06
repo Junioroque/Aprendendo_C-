@@ -1,0 +1,15 @@
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\bin\Debug\net10.0\Esfera.exe
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\bin\Debug\net10.0\Esfera.deps.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\bin\Debug\net10.0\Esfera.runtimeconfig.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\bin\Debug\net10.0\Esfera.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\bin\Debug\net10.0\Esfera.pdb
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\obj\Debug\net10.0\Esfera.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\obj\Debug\net10.0\Esfera.AssemblyInfoInputs.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\obj\Debug\net10.0\Esfera.AssemblyInfo.cs
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\obj\Debug\net10.0\Esfera.csproj.CoreCompileInputs.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\obj\Debug\net10.0\Esfera.sourcelink.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\obj\Debug\net10.0\Esfera.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\obj\Debug\net10.0\refint\Esfera.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\obj\Debug\net10.0\Esfera.pdb
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\obj\Debug\net10.0\Esfera.genruntimeconfig.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_02_Exemplo\Exercicios\Esfera\obj\Debug\net10.0\ref\Esfera.dll
