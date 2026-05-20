@@ -33,8 +33,9 @@ Console.WriteLine("======================");
 DateTime data = DateTime.Now;
 
 Console.WriteLine(data);
+Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
 
-
+Console.WriteLine("======================");
 //concatenação
 string numero1 = "10";
 string numero2 = "15";
@@ -49,3 +50,5 @@ Console.WriteLine(resultado);
 resultado = numero1 + numero3;
 
 Console.WriteLine(resultado);
+
+Console.WriteLine("======================");
