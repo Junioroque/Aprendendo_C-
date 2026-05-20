@@ -33,3 +33,19 @@ Console.WriteLine("======================");
 DateTime data = DateTime.Now;
 
 Console.WriteLine(data);
+
+
+//concatenação
+string numero1 = "10";
+string numero2 = "15";
+int numero3 = 20;
+
+string resultado;
+
+resultado = numero1 + numero2;
+
+Console.WriteLine(resultado);
+
+resultado = numero1 + numero3;
+
+Console.WriteLine(resultado);

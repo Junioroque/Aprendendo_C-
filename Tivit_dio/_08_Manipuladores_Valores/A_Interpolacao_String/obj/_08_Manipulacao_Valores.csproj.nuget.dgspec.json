@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Interpolacao_String\\_08_Manipulacao_Valores.csproj": {}
+    "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Manipuladores_Valores\\A_Interpolacao_String\\_08_Manipulacao_Valores.csproj": {}
   },
   "projects": {
-    "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Interpolacao_String\\_08_Manipulacao_Valores.csproj": {
+    "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Manipuladores_Valores\\A_Interpolacao_String\\_08_Manipulacao_Valores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Interpolacao_String\\_08_Manipulacao_Valores.csproj",
+        "projectUniqueName": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Manipuladores_Valores\\A_Interpolacao_String\\_08_Manipulacao_Valores.csproj",
         "projectName": "_08_Manipulacao_Valores",
-        "projectPath": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Interpolacao_String\\_08_Manipulacao_Valores.csproj",
+        "projectPath": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Manipuladores_Valores\\A_Interpolacao_String\\_08_Manipulacao_Valores.csproj",
         "packagesPath": "C:\\Users\\jccez\\.nuget\\packages\\",
-        "outputPath": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Interpolacao_String\\obj\\",
+        "outputPath": "D:\\rc-C#\\Aprendendo_C#\\Tivit_dio\\_08_Manipuladores_Valores\\A_Interpolacao_String\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
