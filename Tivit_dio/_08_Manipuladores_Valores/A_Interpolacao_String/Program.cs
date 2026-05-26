@@ -35,8 +35,31 @@ DateTime data = DateTime.Now;
 Console.WriteLine(data);
 Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
 
+Console.WriteLine(data.ToShortDateString());
+
+
+string dataString = "2022-03-17 18:00";
+Console.WriteLine(dataString);
+//Especificando o formato da Data
+
+//verificar se e uma data valida
+bool sucesso = DateTime.TryParseExact(dataString, "yyyy-MM-dd HH:mm", CultureInfo.InstalledUICulture, DateTimeStyles.None, out DateTime dataFormato);
+
+if(sucesso)
+{
+    Console.WriteLine($"Conversão com sucesso! Data: {dataFormato}");
+} 
+else
+{
+    Console.WriteLine($"{dataFormato} não é uma data válida!");
+}
+
+
+
+
+
 Console.WriteLine("======================");
-//concatenação
+ //concatenação--
 string numero1 = "10";
 string numero2 = "15";
 int numero3 = 20;
