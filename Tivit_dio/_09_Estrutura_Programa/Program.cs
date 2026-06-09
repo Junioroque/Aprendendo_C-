@@ -12,6 +12,8 @@ namespace _09_Estrutura_Programa
             s.Empilhar(100);
             Console.WriteLine(s.Desempilha());
             Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
        
         }
     }

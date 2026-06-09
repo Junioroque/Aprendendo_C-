@@ -15,7 +15,7 @@ namespace _09_Estrutura_Programa
         {
             if (primeiro == null)
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("A pilha está Vazia");
             }
 
             object resultado = primeiro.item;
