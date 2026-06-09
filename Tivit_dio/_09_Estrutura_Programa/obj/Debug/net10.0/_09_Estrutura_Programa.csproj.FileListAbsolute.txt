@@ -1,0 +1,15 @@
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\obj\Debug\net10.0\_09_Estrutura_Programa.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\obj\Debug\net10.0\_09_Estrutura_Programa.AssemblyInfoInputs.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\obj\Debug\net10.0\_09_Estrutura_Programa.AssemblyInfo.cs
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\obj\Debug\net10.0\_09_Estrutura_Programa.csproj.CoreCompileInputs.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\obj\Debug\net10.0\_09_Estrutura_Programa.sourcelink.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\bin\Debug\net10.0\_09_Estrutura_Programa.exe
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\bin\Debug\net10.0\_09_Estrutura_Programa.deps.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\bin\Debug\net10.0\_09_Estrutura_Programa.runtimeconfig.json
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\bin\Debug\net10.0\_09_Estrutura_Programa.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\bin\Debug\net10.0\_09_Estrutura_Programa.pdb
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\obj\Debug\net10.0\_09_Estrutura_Programa.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\obj\Debug\net10.0\refint\_09_Estrutura_Programa.dll
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\obj\Debug\net10.0\_09_Estrutura_Programa.pdb
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\obj\Debug\net10.0\_09_Estrutura_Programa.genruntimeconfig.cache
+D:\rc-C#\Aprendendo_C#\Tivit_dio\_09_Estrutura_Programa\obj\Debug\net10.0\ref\_09_Estrutura_Programa.dll
